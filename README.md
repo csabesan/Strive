@@ -1,2 +1,1 @@
 # Strive
-# Strive
